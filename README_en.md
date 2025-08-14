@@ -21,4 +21,7 @@ The platform supports automatic drawing and style transfer features, enabling dr
 ---
 ## Materials Used
 | Component          | Specification/Model          |
+|--------------------|------------------------------|
 |Development Board   | Arduino UNO                  |
+| Stepper Motor      | NEMA 17, 1.7A x 2            |
+|Mechanical Part     | Aluminum profile, Metal lead screw|
