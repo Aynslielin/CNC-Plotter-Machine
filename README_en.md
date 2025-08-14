@@ -1,3 +1,4 @@
+[English Version](README.md)
 # Intelligent Two-Dimensional Linear Motion CNC Plotter
 
 This project presents the design, fabrication, and application of an intelligent two-dimensional linear motion CNC plotter. It is part of the **Undergraduate Summer Practical Learning Experience Program** at National Taiwan Ocean University.
@@ -20,8 +21,21 @@ The platform supports automatic drawing and style transfer features, enabling dr
 
 ---
 ## Materials Used
-| Component          | Specification/Model          |
-|--------------------|------------------------------|
-|Development Board   | Arduino UNO                  |
-| Stepper Motor      | NEMA 17, 1.7A x 2            |
-|Mechanical Part     | Aluminum profile, Metal lead screw|
+| Component          | Specification/Model                |
+|--------------------|------------------------------------|
+| Development Board  | Arduino UNO                        |
+| Stepper Motor      | NEMA 17, 1.7A x 2                  |
+| Mechanical Part    | Aluminum profile, Metal lead screw |
+| Power Supply       | 17V DC                             |
+
+---
+## Research Methodology
+
+---
+## Results Showcase
+[Demonstration Video](https://youtu.be/Qn8gQQk7WbQ)
+
+---
+## References
+
+---
