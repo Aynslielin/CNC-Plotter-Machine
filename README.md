@@ -1,4 +1,4 @@
-# 智慧型二維線性運動平台(CNC-Plotter-Machine)
+# 智慧型二維線性運動平台(Intelligent Two-Dimensional Linear Motion CNC Plotter)
 
 本專案將介紹有關智慧型二維線性運動平台的設計、製作與應用，屬於**國立臺灣海洋大學 大學生暑期學習實務體驗計畫**。  
 - **研究單位**: 國立臺灣海洋大學 電機工程學系  
