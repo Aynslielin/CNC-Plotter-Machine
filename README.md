@@ -33,7 +33,7 @@
 
 ---
 ## 成果展示  
-[示範影片](https://youtu.be/Qn8gQQk7WbQ)  
+示範影片:https://youtu.be/Qn8gQQk7WbQ  
 [成品照片](https://github.com/Aynslielin/CNC-Plotter-Machine/tree/main/Result_Images)
 ![](https://github.com/Aynslielin/CNC-Plotter-Machine/blob/main/Result_Images/PhotoCap_Ghibli_ShapeDraw.jpg)
 ![](https://github.com/Aynslielin/CNC-Plotter-Machine/blob/main/Result_Images/SelFile_Ghibli_ShapeDraw.jpg)
