@@ -33,7 +33,17 @@ The platform supports automatic drawing and style transfer features, enabling dr
 
 ---
 ## Results Showcase
-[Demonstration Video](https://youtu.be/Qn8gQQk7WbQ)
+[Demonstration Video](https://youtu.be/Qn8gQQk7WbQ)  
+[Result Image File](https://github.com/Aynslielin/CNC-Plotter-Machine/tree/main/Result_Images)  
+Result Images:  
+![](https://github.com/Aynslielin/CNC-Plotter-Machine/blob/main/Result_Images/PhotoCap_Ghibli_ShapeDraw.jpg)
+![](https://github.com/Aynslielin/CNC-Plotter-Machine/blob/main/Result_Images/SelFile_Ghibli_ShapeDraw.jpg)  
+![](https://github.com/Aynslielin/CNC-Plotter-Machine/blob/main/Result_Images/SelFile_ShapeDraw.jpg)
+![](https://github.com/Aynslielin/CNC-Plotter-Machine/blob/main/Result_Images/SelFile_Fill.jpg)  
+![](https://github.com/Aynslielin/CNC-Plotter-Machine/blob/main/Result_Images/SelFile_Layer.jpg)  
+![](https://github.com/Aynslielin/CNC-Plotter-Machine/blob/main/Result_Images/SelFile_Potrace.jpg)  
+![](https://github.com/Aynslielin/CNC-Plotter-Machine/blob/main/Result_Images/SelFile_Sketch.jpg)  
+
 
 ---
 ## References
