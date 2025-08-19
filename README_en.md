@@ -25,6 +25,7 @@ The platform supports automatic drawing and style transfer features, enabling dr
 |--------------------|------------------------------------|
 | Development Board  | Arduino UNO                        |
 | Stepper Motor      | NEMA 17, 1.7A x 2                  |
+| Servo Motor        | SG90                               |
 | Mechanical Part    | Aluminum profile, Metal lead screw |
 | Power Supply       | 17V DC                             |
 
